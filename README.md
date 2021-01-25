@@ -13,4 +13,6 @@ Numer albumu: 72518
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+Dla wzrostu temepratury silnik wentylatora ma większe obroty. 
+Dzieje się tak ponieważ dla większej temperatury PWM wzrasta i z tranzystora (tranzystor umożliwia regulacje obrotów, zmiana PWM zmienia parametry wyjściowe tranzystora) do silnika wędruje sygnał o większej wartości.
+Została ustalona wartosśc temperatury przy której następuje załączanie. Układ można udoskonalić poprzez dodane diody sygnalizującej załączenie silnika.
